@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jtanisha-ee, a 4th year undergraduate majoring in CS and Biology at SLU
+- 👋 Hi, I’m @tanishajoshi, CS @ SLU 2022, currently looking for full time new grad roles.
 - 👀 I’m interested in blockchain, networking, and ethical AI.
 - 🌱 I’m currently learning about blockchain
 - 💞️ I’m looking to collaborate on ...
