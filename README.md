@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanishajoshi, CS @ SLU 2022, currently looking for full time new grad roles.
+- 👋 Hi, I’m @tanishajoshi, CS @ SLU 2022, currently looking for full time new grad roles in 2022
 - 👀 I’m interested in blockchain, networking, and ethical AI.
 - 🌱 I’m currently learning about blockchain
 - 💞️ I’m looking to collaborate on ...
