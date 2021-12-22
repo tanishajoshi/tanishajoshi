@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain, networking, and ethical AI.
 - 🌱 I’m currently learning about blockchain
 - 💞️ I’m looking to collaborate on ...
-- 📫  Check out my substack too: https://tanishajoshi.substack.com/
+- 📫  Feel free to check out my substack: https://tanishajoshi.substack.com/
 
 <!---
 jtanisha-ee/jtanisha-ee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
